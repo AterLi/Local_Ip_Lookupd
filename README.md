@@ -47,7 +47,7 @@ network	country	country_code	continent	continent_code	asn	as_name	as_domain
 ## Usage
 
 ```bash
-python ip_checker.py
+python ip_checker_v2.py
 ```
 
 ### First Time Setup
@@ -94,13 +94,13 @@ The most specific (smallest) matching range is returned.
 
 ```
 ip_checker/
-├── ip_checker.py          # Main application
+├── ip_checker_v2.py       # Main application
 ├── local_ip_db.py         # Local database module
 ├── requirements.txt       # Dependencies
 ├── sample_ip_data.tsv     # Sample data for testing
 ├── .env                   # API token (create this)
 ├── ip_checker_config.db   # App settings (auto-created)
-└── ip_database.db         # IP data (after import)
+└── db/ip_database.db      # IP data (after import)
 ```
 
 ## Data Sources
