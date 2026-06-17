@@ -1,0 +1,11 @@
+network	country	country_code	continent	continent_code	asn	as_name	as_domain
+1.0.0.0/24	Australia	AU	Oceania	OC	AS13335	Cloudflare, Inc.	cloudflare.com
+1.0.1.0/24	China	CN	Asia	AS			
+1.0.2.0/23	China	CN	Asia	AS			
+1.0.4.0/22	Australia	AU	Oceania	OC	AS38803	Gtelecom Pty Ltd	gtelecom.com.au
+1.1.1.0/24	Australia	AU	Oceania	OC	AS13335	Cloudflare, Inc.	cloudflare.com
+8.8.4.0/24	United States	US	North America	NA	AS15169	Google LLC	google.com
+8.8.8.0/24	United States	US	North America	NA	AS15169	Google LLC	google.com
+9.9.9.0/24	United States	US	North America	NA	AS19281	Quad9	quad9.net
+208.67.220.0/24	United States	US	North America	NA	AS36692	OpenDNS, LLC	opendns.com
+208.67.222.0/24	United States	US	North America	NA	AS36692	OpenDNS, LLC	opendns.com
